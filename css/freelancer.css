@@ -77,8 +77,8 @@ header .container {
   padding-bottom: 50px;
 }
 header img {
-  display: block;
-  margin: 0 auto 20px;
+ border-radius: 30px;
+ border: 7px solid #bca166;
 }
 header .intro-text .name {
   display: block;
